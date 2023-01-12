@@ -1,9 +1,18 @@
-ID
-Summary
-Pre
-Steps
-Post
-Attach[A
-ER
-[A[C[C[3~[3~[3~[3~[C[C[
-Attach
+Bug_id: 1
+Title: Widget doesn’t have dotted frames on display
+
+Severity: Major
+Priority: High
+
+Environment: 1) Xiaomi Redmi Note 5, Android 8.7.4,MIUI Global 11.0.3 Stable
+Precondition: In settings of the mobile device, the text size decreased to minimum, 5x6
+
+STR: 
+1)Open application
+2)Click on widget button
+3)Prepare clear desktop
+4)Change size of widgets
+AR:
+ Widgets don't have dotted frames
+ER:
+ Widget have dotted frames on all sides
